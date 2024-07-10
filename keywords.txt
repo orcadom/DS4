@@ -1,0 +1,8 @@
+DS4   KEYWORD1
+begin   KEYWORD2
+send    KEYWORD2
+setButton   KEYWORD2
+setHat  KEYWORD2
+setTrigger  KEYWORD2
+setAxis KEYWORD2
+setBattery  KEYWORD2
